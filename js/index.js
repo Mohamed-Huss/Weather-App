@@ -6,7 +6,7 @@ const rainHoursElements = document.querySelectorAll("[data-clock]");
 const cityContainer = document.querySelector(".city-items")
 
 // &===========> App Variables
-const apiKey = "b4f6a7cc6d514448ae7133125232208";
+const apiKey = "cd1640f09028478292811642230508";
 const baseUrl = `http://api.weatherapi.com/v1/forecast.json`
 let currentLocation = "cairo";
 const recentCities = JSON.parse(localStorage.getItem("cities")) || []
