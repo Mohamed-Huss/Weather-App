@@ -2,7 +2,7 @@
 
 Never get caught off guard by the weather again! my `Weather-App` gives you real-time weather updates straight from your browser. Whether you want to check if it's a sunny day or if you need to carry an umbrella, we've got you covered.
 
-[**Visit Weather-App!**][Click Here](https://mohamed-huss.github.io/Weather-App/)
+**Visit Weather-App!** [Click Here](https://mohamed-huss.github.io/Weather-App/)
 
 ## Features
 
