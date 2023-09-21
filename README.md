@@ -14,7 +14,7 @@ Never get caught off guard by the weather again! my `Weather-App` gives you real
 ## Technologies Used
 
 - HTML, CSS, and JavaScript
-- Weather API (https://www.weatherapi.com/))
+- Weather API (https://www.weatherapi.com/)
 
 ## Getting Started
 
