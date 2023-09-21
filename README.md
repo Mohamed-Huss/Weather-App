@@ -4,9 +4,6 @@ Never get caught off guard by the weather again! my `Weather-App` gives you real
 
 [**Visit Weather-App!**][Click Here](https://mohamed-huss.github.io/Weather-App/)
 
-![Weather-App Screenshot](path_to_screenshot.png) 
-_Include a screenshot of your app here for a visual preview._
-
 ## Features
 
 - **Real-time Weather Data**: Get the current weather of any city in the world.
