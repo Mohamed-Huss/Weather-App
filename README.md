@@ -17,7 +17,7 @@ Never get caught off guard by the weather again! my `Weather-App` gives you real
   - [Weather API](https://www.weatherapi.com/)
   - [Unsplash API](https://api.unsplash.com/) - Used for fetching city images.
 - **Frontend**: HTML5, CSS3, Bootstrap & JavaScript.
-- **Animations**: Utilized CSS & JS to create interactive animations for enhanced user experience.
+- **Animations**: Utilized CSS to create interactive animations for enhanced user experience.
 - **Responsive Design**: Media Query, Bootstrap.
 - **UI & Design Tools**: FontAwesome.
 
