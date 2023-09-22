@@ -11,10 +11,13 @@ Never get caught off guard by the weather again! my `Weather-App` gives you real
 - **Responsive Design**: Whether you're on desktop, tablet, or mobile, our app looks great!
 - **Forecast Information**: Not just the current weather, get a forecast for the upcoming 7 days as well.
 
-## Technologies Used
+## Tech Stack 🔧
 
-- HTML, CSS, and JavaScript
-- Weather API (https://www.weatherapi.com/)
+- **API**: [Weather API](https://www.weatherapi.com/)
+- **Frontend**: HTML5, CSS3, Bootstrap & JavaScript.
+- **Animations**: Utilized CSS & JS to create interactive animations for enhanced user experience.
+- **Responsive Design**: Media Query, Bootstrap.
+- **UI & Design Tools**: FontAwesome.
 
 ## Getting Started
 
